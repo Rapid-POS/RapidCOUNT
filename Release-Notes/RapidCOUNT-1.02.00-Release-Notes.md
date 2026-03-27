@@ -1,4 +1,4 @@
-# RapidCOUNT v1.01.81 Release Notes
+# RapidCOUNT v1.02.00 Release Notes
 **Release Date:** March 31st, 2026
 
 ## New Functionality
