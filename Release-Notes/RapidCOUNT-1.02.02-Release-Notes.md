@@ -1,5 +1,6 @@
 # RapidCOUNT v1.02.02 Release Notes
-**Release Date:** TBD
+**Release Date:** June 17thn  2026
+
 _Audio feedback enhancements and gridded item workflow improvements, plus fixes for gridded item display and editing behavior._
 
 ## New Features & Improvements
