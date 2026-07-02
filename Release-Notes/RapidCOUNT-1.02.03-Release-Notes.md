@@ -2,7 +2,7 @@
 
 **Release Date:** July 6th 2026
 
-This release improves reliability of quantity entry, focus handling, and timestamp accuracy during physical counts.
+_This release improves reliability of quantity entry, focus handling, and timestamp accuracy during physical counts._
 
 ## Bug Fixes
 
